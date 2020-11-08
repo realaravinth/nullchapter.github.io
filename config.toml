@@ -35,20 +35,12 @@ paginate = 5
   # set all headings to their default size (depending on browser settings)
   # it's set to `true` by default
   # oneHeadingSize = false
-
-[params.twitter]
-  # set Twitter handles for Twitter cards
-  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
-  # do not include @
-  creator = "alan2000alex"
-  site = "twitter.com"
-
 [languages]
   [languages.en]
     languageName = "English"
     title ="Null Chapter"
-    subtitle = "A simple, retro theme for Hugo"
-    owner = "Alan Alexander Thomas"
+    subtitle = "An infosec chapter"
+    owner = "Null Chapter"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
