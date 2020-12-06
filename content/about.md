@@ -15,8 +15,7 @@ author = "Author1"
 
 # Hi there
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
-
+Hello this is the null chapter, how's it going?
 
 - **Sed efficitur,**, lacus ac scelerisque pellentesque, lectus risus dignissim nisl, fermentum semper lectus diam eget lacus.
 - [**Nunc ornare**](https://github.com/nullchapter) purus enim, id eleifend mauris vestibulum volutpat!
