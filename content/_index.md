@@ -9,22 +9,46 @@ draft: true
 <!-- {{< figure src="/73697124.png" height="200" width="200" title="> null_" alt="> null_">}} -->
 <!-- <img src="./static/73697124.png" alt="> null_" height="200"> -->
 
-Welcome to Null Chapter 
-=======================
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis eget urna in vulputate. Praesent justo magna, gravida non erat ut, dictum mollis dui. Praesent nec sapien a urna rutrum elementum maximus non ipsum. Vivamus tempor, augue at porta efficitur, augue orci efficitur ante, quis efficitur urna odio eget est. Vivamus non sapien est. Vivamus tristique cursus lorem. Maecenas vulputate mollis laoreet. Fusce consectetur, augue vitae sagittis efficitur, ipsum metus interdum nulla, a iaculis nisi ex sit amet nunc. Vestibulum fringilla lectus id ligula cursus placerat. 
+# Welcome to Null Chapter 
 
-Events
-======
-Nullam ultricies neque ante, eget euismod magna malesuada eu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed iaculis fermentum metus ut vulputate. Donec non lorem a ex sagittis aliquam vitae ac mauris. Vestibulum egestas, turpis ac viverra luctus, ante purus scelerisque dolor, ut accumsan dolor lacus in nisi. 
+Null chapter is a local chapter at VIT-AP. We are a group of skilled hackers, developers, and tech enthusiasts who engage in various projects and Web Hunts. We aim to push technology  better by finding out bugs and conduct workshops, conferences, events, and completions of both technical and non technical.
 
-**Event 1**
+Here, everyone is given equal opportunity to showcase their skills and talents in the field of cyber security. Null creates different opportunities for  students to learn interesting stuff and at the same time the students gain awareness about all kinds of cyber threats and online safety which is currently one of the most important thing to learn in this digital world. 
 
-{{< figure src="/fff.png" caption="event 1" title="> null_" alt="> null_">}}
+> Join us for a fun, thrilling experience and to explore the world full of security
 
-Nunc libero dui, dignissim et urna at, molestie mattis massa. Nulla eleifend sed leo quis fermentum. Phasellus pellentesque libero ac accumsan varius.
 
-**Event 2**
+# Events
 
-{{< figure src="/fff.png" caption="event 2" title="> null_" alt="> null_">}}
+- Web Hunt
+- Software Freedom Day (with OSC)
+- Cyber Security Workshop
+- Network Security hands-on workshop
+- OSINT
 
-Aenean vel enim vulputate, egestas mauris sit amet, pulvinar orci. Nunc orci magna, sagittis quis tincidunt vitae, maximus ac nulla.
+**October 2020**
+
+{{< figure src="/CTF1.png" caption="Capture the Flag" title="> null_" alt="> null_">}}
+Introductory event for the freshers.
+
+**November 2020**
+
+{{< figure src="/BugBounty.png" caption="Bug Bounty Webinar" title="> null_" alt="> null_">}}
+
+Mr. Shashank, a security analyst in a reputed firm was here to give a talk on Building a Career in Ethical Hacking and Bug Bounties. He has amassed quite a fortune through bug bounties during his college years.
+
+**December 2020**
+
+{{< figure src="/humanrecon1.png" caption="Human Reconnaissance" title="> null_" alt="> null_">}}
+
+>New forums and communities that exist on the surface, deep and dark web have granted easy access for individuals to trade data and information often undetected until it’s too late.
+
+Human Reconnaissance is a unique service that profiles an individual’s digital footprint using open source,
+deep web intelligence to identify online behavioural traits that could be a threat to your organization.
+
+We brought over our beloved Dr. Sibi Chakkaravarthy Sethuraman (Associate Professor, VIT-AP) to help us better understand this issue.
+
+{{< figure src="/humanrecon.png" caption="Human Reconnaissance" title="> null_" alt="> null_">}}
+>When human interference is more leaned towards the virtual world, it's obvious to learn about the dark passengers and dark world out there. 
+
+Due to the relevance of the topic on our social life and a perfect harmony at this point of time, the second phase was conducted on 19-12-20.
