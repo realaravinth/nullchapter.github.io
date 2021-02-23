@@ -11,9 +11,9 @@ draft: true
 
 # Welcome to Null Chapter 
 
-Null chapter is a local chapter at VIT-AP. We are a group of skilled hackers, developers, and tech enthusiasts who engage in various projects and Web Hunts. We aim to push technology  better by finding out bugs and conduct workshops, conferences, events, and completions of both technical and non technical.
+Null chapter is a local chapter at VIT-AP. We are a group of skilled hackers, developers, and tech enthusiasts who engage in various projects and Web Hunts. We aim to push technology better by finding out bugs and conduct workshops, conferences, events, and completions of both technical and non-technical.
 
-Here, everyone is given equal opportunity to showcase their skills and talents in the field of cyber security. Null creates different opportunities for  students to learn interesting stuff and at the same time the students gain awareness about all kinds of cyber threats and online safety which is currently one of the most important thing to learn in this digital world. 
+Here, everyone is given an equal opportunity to showcase their skills and talents in the field of cybersecurity. Null creates different opportunities for students to learn interesting stuff and at the same time the students gain awareness about all kinds of cyber threats and online safety which is currently one of the most important things to learn in this digital world. 
 
 > Join us for a fun, thrilling experience and to explore the world full of security
 
@@ -35,7 +35,7 @@ Introductory event for the freshers.
 
 {{< figure src="/BugBounty.png" caption="Bug Bounty Webinar" title="> null_" alt="> null_">}}
 
-Mr. Shashank, a security analyst in a reputed firm was here to give a talk on Building a Career in Ethical Hacking and Bug Bounties. He has amassed quite a fortune through bug bounties during his college years.
+Mr Shashank, a security analyst in a reputed firm was here to give a talk on Building a Career in Ethical Hacking and Bug Bounties. He has amassed quite a fortune through bug bounties during his college years.
 
 **December 2020**
 
@@ -46,9 +46,9 @@ Mr. Shashank, a security analyst in a reputed firm was here to give a talk on Bu
 Human Reconnaissance is a unique service that profiles an individual’s digital footprint using open source,
 deep web intelligence to identify online behavioural traits that could be a threat to your organization.
 
-We brought over our beloved Dr. Sibi Chakkaravarthy Sethuraman (Associate Professor, VIT-AP) to help us better understand this issue.
+We brought over our beloved Dr Sibi Chakkaravarthy Sethuraman (Associate Professor, VIT-AP) to help us better understand this issue.
 
 {{< figure src="/humanrecon.png" caption="Human Reconnaissance" title="> null_" alt="> null_">}}
 >When human interference is more leaned towards the virtual world, it's obvious to learn about the dark passengers and dark world out there. 
 
-Due to the relevance of the topic on our social life and a perfect harmony at this point of time, the second phase was conducted on 19-12-20.
+Due to the relevance of the topic on our social life and a perfect harmony at this point, the second phase was conducted on 19-12-20.
