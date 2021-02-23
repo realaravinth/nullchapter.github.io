@@ -13,7 +13,7 @@ paginate = 5
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 4
-
+  
   # show selector to switch language
   showLanguageSelector = false
 
@@ -63,10 +63,18 @@ paginate = 5
         name = "Blog"
         url = "/blog"
       [[languages.en.menu.main]]
+        identifier = "gallery"
+        name = "Gallery"
+        url = "/gallery"
+      [[languages.en.menu.main]]
         identifier = "authors"
         name = "Authors"
         url = "/u"
       [[languages.en.menu.main]]
-        identifier = "contactus"
-        name = "Contact Us"
-        url = "/contactus"  
+        identifier = "contact"
+        name = "Contact"
+        url = "/contact"
+      [[languages.en.menu.main]]
+        identifier = "team"
+        name = "Team"
+        url = "/team"
