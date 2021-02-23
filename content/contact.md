@@ -3,7 +3,7 @@ title: "Contact Us"
 # date: 2020-11-07T15:56:12+05:30
 draft: true
 ---
-**Club Coordinator**: Dr. Sibi Chakkaravarthy Sethuraman (Associate Professor, VIT-AP)
+**Club Coordinator**: Dr Sibi Chakkaravarthy Sethuraman (Associate Professor, VIT-AP)
 ## Email
 You can reach us at the following emails:
 
