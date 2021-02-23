@@ -17,27 +17,6 @@
     </item>
     
     <item>
-      <title>Contact Us</title>
-      <link>/contactus/</link>
-      <pubDate>Sat, 07 Nov 2020 15:56:12 +0530</pubDate>
-      
-      <guid>/contactus/</guid>
-      <description>Email You can reach us at the following emails:
- President: saddam.18bcn7143@vitap.ac.in Vice President: jagannadh.18bcn7079@vitap.ac.in Vice President: krishna.18bcn7136@vitap.ac.in  Github Check us out on Github.
-Social Media  LinkedIn: Reach us on LinkedIn/Null-VITAP Instagram: DM us on Instagram/nullchapter Facebook: Check us out on Facebook/nullchapter Youtube: Follow us on Youtube/nullchapter  Follow us, @nullchapter.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Tue, 03 Nov 2020 18:51:37 +0530</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Hi there Hello this is the null chapter, how&amp;rsquo;s it going?
- Sed efficitur,, lacus ac scelerisque pellentesque, lectus risus dignissim nisl, fermentum semper lectus diam eget lacus. Nunc ornare purus enim, id eleifend mauris vestibulum volutpat! Aenean facilisis ut ipsum condimentum ultrices Null Infosec Fusce sed metus vulputate, lobortis purus et, finibus purus. Suspendisse quis posuere lorem. Vivamus vulputate nec risus in pulvinar.  So, that&amp;rsquo;s all&amp;hellip; enjoy!</description>
-    </item>
-    
-    <item>
       <title>Blog1</title>
       <link>/blog/blog1/</link>
       <pubDate>Tue, 03 Nov 2020 18:41:58 +0530</pubDate>
@@ -71,6 +50,47 @@ Cras dictum suscipit suscipit. Phasellus ut ipsum ipsum. Mauris venenatis diam i
       <guid>/u/author1/</guid>
       <description>null_&#34;
 Nunc libero dui, dignissim et urna at, molestie mattis massa. Nulla eleifend sed leo quis fermentum. Phasellus pellentesque libero ac accumsan varius. Aenean vel enim vulputate, egestas mauris sit amet, pulvinar orci. Nunc orci magna, sagittis quis tincidunt vitae, maximus ac nulla. Aliquam erat volutpat. Mauris eleifend lectus in pellentesque venenatis. Sed porta maximus lorem nec imperdiet. Etiam pretium mauris tristique, dignissim ligula ac, pulvinar magna. Duis malesuada sem eget nibh commodo, quis pretium urna malesuada.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>History Null is a registered not-for-profit society and an active security community with 13 chapters in major cities-
+Bangalore, Mumbai, Chennai, Pune, Hyderabad, Delhi, Chandigarh, Kolkata, Singapore, Bhopal, Dharamshala, Dubai, Amsterdam
+An open security community that was founded in 2010 with the idea of providing an integrated platform for exchanging information on the latest attack vectors, zero-day vulnerabilities and unknown threats. The community is formed by members from a security background with experience in the corporate world.</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Club Coordinator: Dr Sibi Chakkaravarthy Sethuraman (Associate Professor, VIT-AP)
+Email You can reach us at the following emails:
+ Club Email: nc.club@vitap.ac.in President: saddam.18bcn7143@vitap.ac.in Vice President(Programme Management): jagannadh.18bcn7079@vitap.ac.in Vice President(Operations): krishna.18bcn7136@vitap.ac.in  Github Check us out on Github.
+Social Media  LinkedIn: Reach us on LinkedIn/Null Infosec Instagram: DM us on Instagram/nullchapter Facebook: Check us out on Facebook/nullchapter Youtube: Follow us on Youtube/nullchapter  </description>
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/gallery/</guid>
+      <description>Pictures will be put up shortly </description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/</guid>
+      <description>Club Team Members </description>
     </item>
     
   </channel>
