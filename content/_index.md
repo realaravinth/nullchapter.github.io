@@ -11,7 +11,7 @@ draft: true
 
 # Welcome to Null Chapter 
 
-The Null Chapter is a local chapter of null, India's largest open security community. We conduct technical and non-technical workshops, conferences, events, and competitions.
+The Null Chapter is a local chapter of [null](https://null.community/), India's largest open security community. We conduct technical and non-technical workshops, conferences, events, and competitions.
 
 We strive to spread awareness about cyber threats and online safety. 
 
@@ -50,4 +50,4 @@ Dr Sibi Chakkaravarthy (Associate Professor, VIT-AP) was with us to help us bett
 {{< figure src="/humanrecon.png" caption="Human Reconnaissance" title="> null_" alt="> null_">}}
 >When human interference is more leaned towards the virtual world, it's obvious to learn about the dark passengers and dark world out there. 
 
-Due to the relevance of the topic on our social life and a perfect harmony at this point, the second phase was conducted on 19-12-20.
+We had another session on human reconnaissance on 19-12-20.
